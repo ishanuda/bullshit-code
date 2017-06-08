@@ -4,14 +4,6 @@
 const request = require('request');
 const sleep = require('system-sleep');
 const colors = require('colors');
-
-
-
-
-
-
-
-//const host = "http://office.avkcom.ru:50000/";
 const host = "http://192.168.137.106:8282/";
 
 const startEventId = 40;
